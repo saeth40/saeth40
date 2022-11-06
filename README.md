@@ -1,18 +1,24 @@
-### Publications
-#### 1. [Impact of Word Frequency on Contextualized Word Embedding’s Properties and Methods to Mitigate the Frequency-related Cosine Similarity Estimation of BERT](https://github.com/saeth40/Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT)
+## Publication
+### 1. [Impact of Word Frequency on Contextualized Word Embedding’s Properties and Methods to Mitigate the Frequency-related Cosine Similarity Estimation of BERT](https://github.com/saeth40/Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT)
 - In process of the 61st annual meeting of the Association for Computational Linguistics, 2023
 - Supervised by [Professor Danushka Bollegala](https://danushka.net/), head of NLP and machine learning research group at the University of Liverpool
 
-### Competition
+## Competitions
 
-### Courswork/ project
-#### 1. [Masters in Data Science and AI, The University of Liverpool, UK](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool)
-#### 2. [AI for engineers, Chulalongkorn University, Thailand](https://github.com/saeth40/AI-for-Engineers-Chulalongkorn-University-2019)
-#### 3. [Semi unsupervised NLP topic modeling for job classification](https://github.com/saeth40/Semi-unsupervised-NLP-topic-modeling-Latent-Dirichlet-Allocation) | MongoDB, Gensim, NLTK, TF-IDF word embedding, Latent Dirichlet Allocation
-- Programing and tools: Python, OOP, C++, SQL, Matlab, Matplotlib, Seaborn, Pandas, AWS (EC2, S3, SageMaker), Web scraping
-- Machine learning: 
-- Deep learning: 
-- NLP: 
+## Courswork/ projects
+### 1. [Masters in Data Science and AI, The University of Liverpool, UK](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool) 
+-> Database management and SQL,  Applied AI (ML, DL), Math and Statistics for Data Science, Reinforcement learning and bioinspired optimization, Computational intelligence, Data mining and visualization, Object-oriented programing
+### 2. [AI for engineers, Chulalongkorn University, Thailand](https://github.com/saeth40/AI-for-Engineers-Chulalongkorn-University-2019)
+-> Hill Climb, Genetic algorithm, K-mean, H-clustering, Regression, Decision tree, Naïve Bayes classifier, CNN transfer learning
+### 3. [Semi unsupervised NLP topic modeling for job classification](https://github.com/saeth40/Semi-unsupervised-NLP-topic-modeling-Latent-Dirichlet-Allocation) 
+-> MongoDB, Gensim, NLTK, TF-IDF word embedding, Latent Dirichlet Allocation
+### 4. [End-to-end garbage sorting robot using object detection](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection)
+-> Object detection, Transfer learning, Raspberry Pi, IoT server, OpenCV
+### 5. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
+-> Pandas, Numpy, Matplotlib, Seaborn, Data visualization
+### 6. [CSV table generation from web scraping](https://github.com/saeth40/Python-web-scraper-csv-export) and [PDF table extraction](https://github.com/saeth40/Tables-extraction-from-pdf-with-Python)
+-> HTML, Beautiful Soup, Selenium
+
 
 
 <!--
