@@ -5,19 +5,14 @@
 
 ### Competition
 
-### Courswork
+### Courswork/ project
 #### 1. [Masters in Data Science and AI, The University of Liverpool, UK](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool)
 #### 2. [AI for engineers, Chulalongkorn University, Thailand](https://github.com/saeth40/AI-for-Engineers-Chulalongkorn-University-2019)
-- Programing and tools: Python, OOP
+#### 3. [Semi unsupervised NLP topic modeling for job classification](https://github.com/saeth40/Semi-unsupervised-NLP-topic-modeling-Latent-Dirichlet-Allocation) | MongoDB, Gensim, NLTK, TF-IDF word embedding, Latent Dirichlet Allocation
+- Programing and tools: Python, OOP, C++, SQL, Matlab, Matplotlib, Seaborn, Pandas, AWS (EC2, S3, SageMaker), Web scraping
 - Machine learning: 
 - Deep learning: 
-
-### Project
-#### NLP
-
-#### Deep learning
-
-#### Machine learning
+- NLP: 
 
 
 <!--
