@@ -4,6 +4,9 @@
 - Supervised by [Professor Danushka Bollegala](https://danushka.net/), head of NLP and machine learning research group at the University of Liverpool
 
 ## Competitions
+### 1. [Kaggle competition, Natural Language Processing with Disaster Tweets](https://github.com/saeth40/Competitions/tree/main/NLP%20disaster%20Tweets)
+- Top 15% of the leaderboard globally by classifying potential disasters from extremely vague Twitter text dataset
+- Text preprocessing, BERT word and sentence embedding, fine-tuning BERT
 
 ## Courswork/ projects
 ### 1. [Masters in Data Science and AI, The University of Liverpool, UK](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool) 
