@@ -16,12 +16,12 @@
 -> Object detection, Transfer learning, Raspberry Pi, IoT server, OpenCV
 
 ## Self-learning skills
-### 1. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
--> Pandas, Numpy, Matplotlib, Seaborn, Data visualization
-### 2. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40)
+### 1. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40)
 -> Transformer (BERT), Text classification, Text summarization, Machine translation, Sentimental analysis, Named-entity recognition, Image augmentation, Image classification
-### 3. [AWS services](https://github.com/saeth40)
+### 2. [AWS services](https://github.com/saeth40)
 -> EC2 instance, S3 Bucket, Amazon SageMaker
+### 3. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
+-> Pandas, Numpy, Matplotlib, Seaborn, Data visualization
 ### 4. [CSV table generation from web scraping](https://github.com/saeth40/Python-web-scraper-csv-export) and [PDF table extraction](https://github.com/saeth40/Tables-extraction-from-pdf-with-Python)
 -> HTML, Beautiful Soup, Selenium
 
