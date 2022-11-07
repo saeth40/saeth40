@@ -8,12 +8,12 @@
 ## Courswork/ projects
 ### 1. [Masters in Data Science and AI, The University of Liverpool, UK](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool) 
 -> Database management and SQL,  Applied AI (ML, DL), Math and Statistics for Data Science, Reinforcement learning and bioinspired optimization, Computational intelligence, Data mining and visualization, Object-oriented programing
-### 2. [AI for engineers, Chulalongkorn University, Thailand](https://github.com/saeth40/AI-for-Engineers-Chulalongkorn-University-2019)
--> Hill Climb, Genetic algorithm, K-mean, H-clustering, Regression, Decision tree, Naïve Bayes classifier, CNN transfer learning
-### 3. [Semi unsupervised NLP topic modeling for job classification](https://github.com/saeth40/Semi-unsupervised-NLP-topic-modeling-Latent-Dirichlet-Allocation) 
+### 2. [Semi unsupervised NLP topic modeling for job classification](https://github.com/saeth40/Semi-unsupervised-NLP-topic-modeling-Latent-Dirichlet-Allocation) 
 -> MongoDB, Gensim, NLTK, TF-IDF word embedding, Latent Dirichlet Allocation
-### 4. [End-to-end garbage sorting robot using object detection](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection)
+### 3. [End-to-end garbage sorting robot using object detection](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection)
 -> Object detection, Transfer learning, Raspberry Pi, IoT server, OpenCV
+### 4. [AI for engineers, Chulalongkorn University, Thailand](https://github.com/saeth40/AI-for-Engineers-Chulalongkorn-University-2019)
+-> Hill Climb, Genetic algorithm, K-mean, H-clustering, Regression, Decision tree, Naïve Bayes classifier, CNN transfer learning
 
 ## Self-learning skills
 ### 1. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40)
