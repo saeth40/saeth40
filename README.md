@@ -16,9 +16,9 @@
 -> Hill Climb, Genetic algorithm, K-mean, H-clustering, Regression, Decision tree, Naïve Bayes classifier, CNN transfer learning
 
 ## Self-learning skills
-### 1. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40)
+### 1. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40/Completed-PyTorch-for-NLP-and-deep-learning)
 -> Transformer (BERT), Bi-directional LSTM, Time series analysis, Anomaly detection, Encoder-decoder (sequence to sequence), Text classification, Text summarization, Machine translation, Sentimental analysis, Named-entity recognition, Image augmentation, Image classification, Custom dataset preparation
-### 2. [AWS services](https://github.com/saeth40)
+### 2. [AWS services](https://github.com/saeth40/AWS-services)
 -> EC2 instance, S3 Bucket, Amazon SageMaker
 ### 3. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
 -> Pandas, Numpy, Matplotlib, Seaborn, Data visualization
