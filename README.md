@@ -17,7 +17,7 @@
 
 ## Self-learning skills
 ### 1. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40)
--> Transformer (BERT), Text classification, Text summarization, Machine translation, Sentimental analysis, Named-entity recognition, Image augmentation, Image classification
+-> Transformer (BERT), Bi-directional LSTM, Time series analysis, Anomaly detection, Text classification, Text summarization, Machine translation, Sentimental analysis, Named-entity recognition, Image augmentation, Image classification, Custom dataset preparation
 ### 2. [AWS services](https://github.com/saeth40)
 -> EC2 instance, S3 Bucket, Amazon SageMaker
 ### 3. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
