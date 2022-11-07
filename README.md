@@ -14,9 +14,15 @@
 -> MongoDB, Gensim, NLTK, TF-IDF word embedding, Latent Dirichlet Allocation
 ### 4. [End-to-end garbage sorting robot using object detection](https://github.com/saeth40/Garbage-Sorting-Robot-Using-Object-Detection)
 -> Object detection, Transfer learning, Raspberry Pi, IoT server, OpenCV
-### 5. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
+
+## Self-learning skills
+### 1. [Python for data analysis](https://github.com/saeth40/Python-for-data-analysis-by-Wes-McKinney)
 -> Pandas, Numpy, Matplotlib, Seaborn, Data visualization
-### 6. [CSV table generation from web scraping](https://github.com/saeth40/Python-web-scraper-csv-export) and [PDF table extraction](https://github.com/saeth40/Tables-extraction-from-pdf-with-Python)
+### 2. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40)
+-> Transformer (BERT), Text classification, Text summarization, Machine translation, Sentimental analysis, Named-entity recognition, Image augmentation, Image classification
+### 3. [AWS services](https://github.com/saeth40)
+-> EC2 instance, S3 Bucket, Amazon SageMaker
+### 4. [CSV table generation from web scraping](https://github.com/saeth40/Python-web-scraper-csv-export) and [PDF table extraction](https://github.com/saeth40/Tables-extraction-from-pdf-with-Python)
 -> HTML, Beautiful Soup, Selenium
 
 
