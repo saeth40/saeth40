@@ -1,14 +1,14 @@
-## Publication
+## 📚Publication
 ### 1. [Impact of Word Frequency on Contextualized Word Embedding’s Properties and Methods to Mitigate the Frequency-related Cosine Similarity Estimation of BERT](https://github.com/saeth40/Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT)
 - In process of the 61st annual meeting of the Association for Computational Linguistics, 2023
 - Supervised by [Professor Danushka Bollegala](https://danushka.net/), head of NLP and machine learning research group at the University of Liverpool
 
-## Competitions
+## 🏆Competitions
 ### 1. [Kaggle competition, Natural Language Processing with Disaster Tweets](https://github.com/saeth40/Competitions/tree/main/NLP%20disaster%20Tweets)
 - Top 15% of the leaderboard globally by classifying potential disasters from extremely vague Twitter text dataset
 - Text preprocessing, BERT word and sentence embedding, fine-tuning BERT
 
-## Courswork/ projects
+## 💻Courswork/ projects
 ### 1. [Masters in Data Science and AI, The University of Liverpool, UK](https://github.com/saeth40/MSc-Data-Science-and-AI-U-of-Liverpool) 
 -> Database management and SQL,  Applied AI (ML, DL), Math and Statistics for Data Science, Reinforcement learning and bioinspired optimization, Computational intelligence, Data mining and visualization, Object-oriented programing
 ### 2. [Semi unsupervised NLP topic modeling for job classification](https://github.com/saeth40/Semi-unsupervised-NLP-topic-modeling-Latent-Dirichlet-Allocation) 
@@ -18,7 +18,7 @@
 ### 4. [AI for engineers, Chulalongkorn University, Thailand](https://github.com/saeth40/AI-for-Engineers-Chulalongkorn-University-2019)
 -> Hill Climb, Genetic algorithm, K-mean, H-clustering, Regression, Decision tree, Naïve Bayes classifier, CNN transfer learning
 
-## Self-learning skills
+## 🌱Self-learning skills
 ### 1. [Completed PyTorch for NLP and deep learning](https://github.com/saeth40/Completed-PyTorch-for-NLP-and-deep-learning)
 -> Transformer (BERT), Bi-directional LSTM, Time series analysis, Anomaly detection, Encoder-decoder (sequence to sequence), Text classification, Text summarization, Machine translation, Sentimental analysis, Named-entity recognition, Image augmentation, Image classification, Custom dataset preparation
 ### 2. [AWS services](https://github.com/saeth40/AWS-services)
