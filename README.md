@@ -1,5 +1,5 @@
 ## 📚Publication
-### 1. [Impact of Word Frequency on Contextualized Word Embedding’s Properties and Methods to Mitigate the Frequency-related Cosine Similarity Estimation of BERT](https://github.com/saeth40/Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT)
+### 1. [Solving Cosine Similarity Underestimation between High Frequency Words by ℓ2 Norm Discounting](https://github.com/saeth40/Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT)
 - In process of the 61st annual meeting of the Association for Computational Linguistics, 2023
 - Supervised by [Professor Danushka Bollegala](https://danushka.net/), head of NLP and machine learning research group at the University of Liverpool
 
