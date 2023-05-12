@@ -2,6 +2,7 @@
 ### 1. [Solving Cosine Similarity Underestimation between High Frequency Words by ℓ2 Norm Discounting](https://github.com/saeth40/L2-NormDiscounting-For-Cosine-Sim-Underestimation)
 - Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics, Toronto, Canada, 2023
 - Supervised by [Professor Danushka Bollegala](https://danushka.net/), head of NLP and machine learning research group at the University of Liverpool
+- Co-author: Yi Zhou
 
 ## 🏆Competitions
 ### 1. [Kaggle competition, Natural Language Processing with Disaster Tweets](https://github.com/saeth40/Competitions/tree/main/NLP%20disaster%20Tweets)
